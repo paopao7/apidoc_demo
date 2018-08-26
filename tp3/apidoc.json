@@ -1,0 +1,13 @@
+{
+  "name": "测试接口文档",
+  "version": "1.0.0",
+  "description": "该接口文档为测试接口文档以供客户端开发者使用",
+  "title": "测试接口文档",
+  "url": "http://tp3.cn",
+  "sampleUrl": "http://tp3.cn/index.php",
+  "order": ["Home","User"],
+  "template": {
+    "withGenerator": false,
+    "forceLanguage": "zh_cn"
+  }
+}
